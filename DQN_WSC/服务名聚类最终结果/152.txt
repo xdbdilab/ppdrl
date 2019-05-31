@@ -1,4 +1,0 @@
-479:maran service service
-1845:fuzztran service
-1997:fuzztran service 
-2183:quran service 
