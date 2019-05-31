@@ -1,0 +1,10 @@
+316:embossversion service 
+495:embossversion service
+588:emowse service
+1120:embossdata service 
+1858:embossversion service 
+2034:emowse service
+2054:ememe service 
+2428:emma service 
+2440:emast service
+2465:emowse service 

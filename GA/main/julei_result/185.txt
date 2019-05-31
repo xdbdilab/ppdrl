@@ -1,0 +1,19 @@
+154:sms gateway service 
+375:sms gateway 
+624:sms 
+735:envio sms 
+1371:sms api service 
+1533:send sms world 
+1644:envio sms 
+1671:sms text messaging 
+1738:sms 
+1873:text sms 
+1913:sms 
+1924:sms messaging service 
+1953:sms gate2 
+2195:sms service 
+2218:send sms service 
+2362:sms 
+2375:sms transfer 
+2399:sms messaging service 
+2490:sms service 

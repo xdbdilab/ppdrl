@@ -1,0 +1,17 @@
+42:ndfd xml 
+272:ndfd xml 
+329:tn pub services xml 
+337:trm standard version service 
+782:glen xml service
+884:ndfd xml 
+1089:tn pub services xml 
+1334:ndfd xml 
+1485:xml select 
+1619:news xml service 
+1718:xml demo service 
+1885:xml tracking
+1940:ixmlws2 service 
+1950:i secretary xml brokerservice 
+2149:ndfd xml  
+2420:ndfd xml
+2443:html2 xml services

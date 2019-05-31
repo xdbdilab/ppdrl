@@ -1,0 +1,6 @@
+38:bind service 
+130:bind service
+327:target service binding 
+993:session management service binding 
+1854:session create rq service 
+2138:target service binding 

@@ -1,0 +1,90 @@
+19:updates service 
+27:freak service 
+72:view count service 
+79:uniquesubs service 
+131:btblast service 
+145:xc shop service 
+176:transport service 
+183:vs oi service 
+215:retsinfo service 
+229:subject browser service 
+235:captcha service 
+276:encrypt point service 
+279:vbidas service 
+320:xf service 
+365:iget numbers service 
+383:pdbtosp service 
+398:vaerker service 
+446:logging service 
+450:local service 
+455:auto service 
+505:ocr service 
+551:rsvm service 
+603:xmpp service 
+621:element refinements service 
+625:blastbt service 
+641:similarity service 
+718:service billing 
+761:saisie france2 service bean service 
+800: ofac service 
+814:tip service 
+820:c reasoner service 
+822:fdnainvar service 
+844:vin service 
+850:pscan service 
+873:bch service 
+935:subject browser service 
+940:traffic service 
+965:annotate service 
+983:rss service 
+1049:dict service 
+1063:fdiscboot service 
+1067:tnm gazetteer service 
+1108:wobble service 
+1163:vs oi service 
+1183:dictmeta service 
+1204:outbound call service 
+1219:charge service 
+1226:patmatmotifs service 
+1258:invitation service 
+1264:sales service 
+1282:preg service 
+1419:graypot service 
+1443:fuzznuc service 
+1445:tips service 
+1480:cpgplot service 
+1482:guspm service 
+1507:whois service 
+1569:blastbt service 
+1578:cpgplot service 
+1593:fuzznuc service 
+1620:codcmp service 
+1632:hotels service 
+1637:tnm gazetteer service 
+1647:rsom service 
+1660:home work service 
+1723:pathway service 
+1777:personalization service 
+1782:shareware service 
+1796:validation service 
+1860:paddle service 
+1901:pscan service 
+1941:zel service 
+1949:wordml2latex service 
+1965:fconsense service 
+1975:fpromlk service 
+2033:abiview service 
+2045:mwcontam service 
+2049:fpenny service 
+2059:twodsweep service 
+2070:wobble service 
+2076:mesa claims service 
+2140:aai service 
+2154:freak service 
+2200:cogo service 
+2213:tnm elevation service 
+2223:retsinfo service 
+2224:service transfert 
+2251:pscan service 
+2446:backtranambig service 
+2460:ebi service 

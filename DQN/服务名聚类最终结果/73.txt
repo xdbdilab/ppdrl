@@ -1,0 +1,9 @@
+286:fax messaging service 
+520:fax service 
+591:2sms messaging 
+1022:inter fax 
+1062:fax 
+1176:fax service 
+1888:fax status 
+1911:mobile text messaging 
+2412:fax messaging service 

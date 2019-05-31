@@ -1,0 +1,10 @@
+70:vrnaduplex service
+380:vrnaalifoldpf service
+786:vrnasubopt service 
+857:vrnacofold service 
+954:vrnacofoldpf service 
+981:vrnaheat service
+1467:vrnaplot service 
+1703:vrnaeval service
+1932:vrnainverse service 
+2173:vrnadistance service  

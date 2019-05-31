@@ -1,0 +1,35 @@
+21:xaraya soap 
+75:xaraya soap 
+94:grtnws soap 
+125:bank val soap 
+160:xaraya soap 
+249:hello open soap 
+147:soap fault service 
+260:pm soap rpc api
+355:itestckv soap service 
+357:soap go 
+385:bank val soap 
+429:xaraya soap 
+461:ksms soap 
+614:ocode2 short format soap 
+628:soap 
+785:sympa soap 
+909:xaraya soap 
+928:soap aldiaservice 
+1071:msd soap service 
+1079:bank val soap 
+1270:soap service 
+1352:xaraya soap 
+1368:xaraya soap 
+1393:xaraya soap 
+1464:itestckv soap service 
+1484:bank val soap 
+1561:xaraya soap 
+1586:ocodes soap 
+1653:xaraya soap
+1670:soap4buildwsdl  
+1962:pds soap 
+2014:msd soap service 
+2329:soap responder 
+2468:seqnavi soap api service
+2433:xaraya soap 

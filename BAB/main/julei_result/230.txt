@@ -1,0 +1,36 @@
+44:x0040 service x0020 webservices 
+84:palio x0020 di x0020 siena 
+224:hr-xml x0020 validation x0020 x0028 2006-02 x0020 release x0029 
+271:dev leap x0020 x0020 ws cached
+406:whiteyork x0020 hosting x0020 usage x0020 service  
+488:fuller data x0020 high x0020 score x0020 service 
+501:reed x0020 affiliates x0020 web service 
+620:nra x0020 ila x0020 news x0020 x0020 updates x0020 syndication 
+629:x0040 service x0020 webservices 
+631:remember x0020 god 
+651:nra x0020 ila x0020 news x0020 x0020 updates x0020 syndication 
+722:x0020 development x0020 one x0020 xmltv x0020 web x0020 service 
+798:hr-xml x0020 validation x0020 x0028 2004-08 x0020 release x0029 
+880:tiscali x0020 presence x0020 services 
+898:dev leap x0020 x0020 codice x0020 fiscale 
+936:sql x0020 formatter x0020 web x0020 service 
+953:source x0020 code x0020 community x0020 web service 
+1038:nearest x0020 service 
+1090:states x0020 x0026 x0020 provinces 
+1190:codic x0020 engine.net x0020 web x0020 service 
+1221:c2i x0020 service x0020 web x0020 gratuit 
+1253:fuller data x0020 fortune x0020 cookie 
+1279:tgl x0020 web x0020 services x0020 v1.0 
+1360:x0040 service x0020 webservices 
+1420:a.d.a.m. x002c x0020 inc. x0020 x0020 content x0020 service 
+1423:nra x0020 ila x0020 news x0020 syndication 
+1426:roll x0020 generator x0020 web x0020 service. 
+1541:hr-xml x0020 validation x0020 x0028 2004-08 x0020 release x0029 
+1748:tiscali x0020 security x0020 services 
+1823:x0020 dolls x0020 gallery x0020 store x0020 x0028 web x0020 service x0029 
+1921:x0040 service x0020 webservices 
+2105:webservices.nl 
+2148:nra x0020 ila x0020 news x0020 x0020 updates x0020 syndication 
+2188:tiscali x0020 ums x0020 accounting x0020 services 
+2261:x0040 service x0020 webservices 
+2296:x0040 service x0020 webservices 

@@ -1,0 +1,18 @@
+185:shopping cart test
+339:white mesa soap12 add test svc 
+396:hex binary test 
+404:test service 
+492:simple test 
+712:wsa test service 
+967:simple 
+1141:white mesa soap12 add test svc 
+1199:service test 
+1370:default test 
+1383:interop test extensibility required 
+1510:test service 
+1712:simple test 
+1800:wsa test service 
+2193:white mesa soap12 add test svc 
+2199:custom field response ws 
+2229:test response service
+2255:simps 

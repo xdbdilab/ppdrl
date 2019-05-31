@@ -1,0 +1,40 @@
+99:wst coffee service
+141:people ws  
+165:ws emboss service 
+250:find blank ws 
+301:cool ws itm  
+420:ws travel service 
+538:fandg subscription ws  
+578:ws loggildingar  
+686:k4t hotel avail ws  
+876:fm ws 
+891:ws fasta service 
+905:ws muscle service  
+952:ws strings 
+1104:ws core 
+1136:ws 
+1206:rpc simap ws service  
+1241:cool ws itm 
+1340:gateway ws service 
+1409:k4t air fares ws 
+1432:sudoku solver ws 
+1450:nominalia ws 
+1535:population ws 
+1567:ws req sender 
+1697:k4t hotel sell ws 
+1713:population ws  
+1783:ws dice 
+1875:radio mall ws 
+1903:ws emboss service 
+1974:ws domain doctor 
+1984:ws blastpgp service 
+1991:ws mafft service 
+2172:ws dali lite service
+2242:ws kalign service 
+2254:ws fasta service 
+2299:ws maxsprout service 
+2342:ws citation impl service 
+2350:ws req sender 
+2352:k4t air reservations ws
+2357:ws registri certificati 
+2506:sailboat calcs ws 

@@ -1,0 +1,12 @@
+80:ser cls peticion soaptpvpc service 
+305:ser cls peticion soaptpvpc service 
+332:ser cls peticion soaptpvpc service 
+463:ser cls peticion soap service 
+899:ser cls ws pasarela pinpad service
+1065:ser cls peticion soaptpvpc service 
+1119:ser cls peticion soap stratus mobipay service 
+1389:ser cls peticion soaptpvpc service 
+1613:ser cls ws pasarela pinpad service
+1751:ser cls ws consulta service 
+1784:ser cls ws pasarela pinpad service 
+1837:ser cls ws pasarela pinpad service

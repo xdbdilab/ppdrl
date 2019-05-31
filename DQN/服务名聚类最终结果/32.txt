@@ -1,0 +1,22 @@
+115:coderet service 
+124:tcode service
+128:geocoder service 
+363:bar codes service
+370:iwsdl publish service 
+458:australian post code 
+634:ots zip 
+1377:postcode service 
+1379:code generator 
+1521:bar code
+1668:postcode service  
+1762:bar code 
+1767:bar code 
+1929:coderet service 
+1959:codecoloring service 
+1996:tcode service 
+2063:tcode service
+2085:code service 
+2212:geocode service
+2308:geocode service
+2367:australian post code 
+2383:seika code publish 
