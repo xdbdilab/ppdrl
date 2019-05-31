@@ -1,0 +1,11 @@
+945:syco service 
+1008:syco service 
+1080:union service 
+1215:syco service 
+1385:whichdb service 
+1497:union service 
+1523:whichdb service 
+2003:est2genome service 
+2007:est2genome service 
+2052:cusp service 
+2080:est2genome service 

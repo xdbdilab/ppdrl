@@ -1,0 +1,16 @@
+52:send wm2 mail 
+107:soap send 
+163:email validation 
+352:x web email validation 
+369:soap send 
+465:email verification 
+542:send page service 
+708:email ver no test email 
+889:email verify 
+926:send oio xml 
+1406:email verification
+1474:mail service 
+1872:email address validator
+1934:mail service port 
+1947:email verify 
+2267:send email service 

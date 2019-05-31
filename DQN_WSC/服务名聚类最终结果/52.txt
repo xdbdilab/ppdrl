@@ -1,0 +1,13 @@
+89:address manager 
+126:poi manager 
+246:pipeline manager ale 
+502:object state manager 
+519:subscription manager 
+866:taxonomy manager 
+914:dictionary manager 
+1092:review request manager 
+1233:data manager 
+1503:address manager 
+1876:language dictionary 
+2134:namespace manager 
+2478:document manager 

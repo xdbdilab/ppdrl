@@ -1,0 +1,12 @@
+2:compound2 
+152:compound2
+161:compound1
+203:compound1  
+799:compound2 
+861:compound2 
+871:compound2 
+986:compound2
+1201:compound1
+1592:compound1 
+2145:compound2 
+2247:compound1

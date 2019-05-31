@@ -1,0 +1,21 @@
+230:i address2 service 
+395:i password service 
+496:i roman service 
+560:i orem geocoder service 
+650:translate svc 
+653:i hess service service 
+803:i temp converter service 
+908:i kto pruef service 
+978:i dutch service 
+984:i address3 service 
+994:i dutch service 
+1170:i mucs service 
+1198:i lohn2004 service 
+1429:i client dataservice 
+1624:translate 
+1889:i tst sdncheck service 
+1936:i tic tac toeservice 
+2111:i lohn2004 service 
+2268:i translate svc 
+2298:i mobil ws 
+2379:i dutch service 

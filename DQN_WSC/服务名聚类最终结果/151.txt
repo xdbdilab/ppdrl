@@ -1,0 +1,7 @@
+386:random quote  
+583:delayed stock quote 
+671:stock quote
+1030:quoteof day 
+1602:quote machine 
+1606:stock quote service service 
+2190:bn quote service 

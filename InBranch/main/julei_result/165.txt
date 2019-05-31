@@ -1,0 +1,31 @@
+47:c search 
+182:search 
+214:local search srv service 
+415:search 
+426:search 
+427:wolfram search service 
+503:people search
+585:search najdi si
+613:stssearch service   
+672:abrxml search 
+677:search 
+704:search service 
+775:textsearch service 
+831:paracite search service 
+848:news search service 
+1058:research service
+1103:search service 
+1110:search service 
+1174:search service 
+1232:textsearch service 
+1259:stssearch service
+1285:metadb search service 
+1353:primersearch service
+1397:search vecer com 
+1655:search 
+1764:oh rwurm search service 
+1841:wolfram search service 
+2087:bsxml address search 
+2101:web search ws 
+2128:search dnevnik si 
+2246:search service 

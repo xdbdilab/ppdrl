@@ -1,0 +1,10 @@
+60:currency rates 
+92:ups rates 
+471:dots currency exchange
+561:currency rates 
+913:currency convertor 
+1138:exchange rate service 
+1424:current homeland security threat level 
+1657:exchange rates 
+1774:nbp rates
+2150:exchange rates

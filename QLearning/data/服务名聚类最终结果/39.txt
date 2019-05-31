@@ -1,0 +1,65 @@
+53:conversor 
+65:elewebdir 
+190:whois 
+206:policy documents 
+285:p cto long lat 
+356:ge dat 
+530:error reporter 
+564:valdoc 
+565:icon 
+575:attsms 
+602:distance 
+664:aws mechanical turk requester 
+689:en graph gps 
+720:lodge 
+743:x3ws 
+796:codice fiscale 
+837:dispenser 
+851:geolizer  
+893:discordian 
+943:iachso apservice 
+996:rapportage 
+1019:geoservices 
+1113:rcaws 
+1150:context 
+1153:sbml 
+1154:hellowsdl 
+1166:primary 
+1288:getfile2 
+1293:aws mechanical turk requester 
+1317:expanded congo buy servoce 
+1348:full congo buy servoce 
+1386:tbapi 
+1396:getgeoobjects 
+1408:universal thread 
+1469:zipinfo 
+1496:guidissue 
+1524:location routing 
+1532:dpcws 
+1557:nav functions 
+1614:executor 
+1650:ossiws 
+1677:executor 
+1686:conversor 
+1750:smsws 
+1804:usng 
+1814:localita 
+1820:gf core 
+1832:houseof dev  
+1842:oemsearchxmle 
+1886:notas 
+2098:cra clima gsrad 
+2110:dispenser 
+2127:learn 
+2151:taric cz 
+2203:clover 
+2208:iaa utilities 
+2236:owamp 
+2302:rshare 
+2318:northwind 
+2335:context 
+2351:b2bxml orders 
+2363:teletekst 
+2411:categoryfeatures 
+2417:dev cadastro 
+2504:aws alexa 

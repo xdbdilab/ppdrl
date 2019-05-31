@@ -1,0 +1,30 @@
+135:wsdl interop test doc lit service 
+199:wsdl interop test rpc enc service 
+448:wsdl interop test list service 
+452:wsdl interop test rpc enc service 
+581:wsdl contract first service 
+599:wsdl interop test list service 
+639:wsdl interop test rpc enc service 
+707:wsdl interop test rpc enc service 
+833:wsdl interop test doclit service 
+906:wsdl interop test doc lit service 
+937:wsdl interop test doclit 
+1029:wsdl interop test rpc enc service 
+1051:wsdl interop test doc lit parameters 
+1192:wsdl interop test rpc enc service 
+1207:wsdl interop test doc lit service 
+1252:soap4 build wsdl 
+1342:wsdl interop test doc lit service 
+1470:wsdl interop test doclit service 
+1494:wsdl interop test doclit service 
+1573:wsdl 
+1848:wsdl interop test list service 
+1878:wsdl interop test doc lit service 
+2096:wsdl interop test doc lit service 
+2122:wsdl interop test doc lit service 
+2189:wsdl interop test doc lit service 
+2197:wsdl interop test list service 
+2287:wsdl interop test doc lit service 
+2314:wsdl interop test doc lit parameters 
+2388:wsdl interop test doc lit service
+2347:wsdl 

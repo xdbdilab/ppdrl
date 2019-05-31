@@ -1,0 +1,34 @@
+6:interop2
+17:interop
+96:interop 
+168:interop 
+181:interop 
+210:dime interop 
+334:interop 
+350:interop 
+378:interop2
+449:interop2c
+568:interop 
+627:interop2b
+638:interop
+787:interop test extensibility required  
+985:dime interop
+1216:interop def
+1247:interop2c
+1307:interop2b
+1315:interop test extensibility
+1338:interop test headers  
+1341:interop 
+1415:interop 
+1447:interop 
+1489:interop2c
+1528:dime interop 
+1549:interop 
+1715:interop service b service
+1746:interop
+1859:interop2b  
+2169:interop service service 
+2181:dime interop 
+2216:interop def
+2372:dime interop 
+2505:interop2

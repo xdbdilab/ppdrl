@@ -1,0 +1,12 @@
+8:wsdb fetch server legacy service 
+457:xms server 
+1122:currency server web service 
+1421:mobile soap server service 
+1493:example service 
+1500:low rpc service 
+1527:emep server 
+1601:joe gustav server service 
+1714:message server service 
+1998:wsdb fetch server legacy service 
+2304:sable model server rpc service 
+2382:server example service 

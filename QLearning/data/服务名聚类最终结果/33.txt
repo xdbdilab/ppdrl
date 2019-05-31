@@ -1,0 +1,18 @@
+10:command service 
+18:antigenic service 
+54:mesa claims service 
+97:extractfeat service 
+202:synonyms service 
+512:metar service 
+962:extractseq service 
+1050:j exam info service service 
+1085:fdrawtree service 
+1518:finnwords service 
+1558:fxws service 
+1617:fdolpenny service 
+1633:jsrm service 
+1745:buchung service 
+1811:fsou office2003 service 
+2037:fdnacomp service 
+2141:multtest service 
+2397:ehmmcalibrate service 

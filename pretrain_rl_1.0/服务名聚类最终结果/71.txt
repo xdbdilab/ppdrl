@@ -1,0 +1,37 @@
+81:etandem service 
+123:recommendation service 
+283:etandem service 
+486:recommendation service 
+543:silent service 
+544:recommendation service 
+706:recommendation service 
+719:palindrome service 
+730:ws4lsql service 
+772:checkid service 
+778:tfscan service 
+923:etandem service 
+1082:yank service 
+1128:jip news service 
+1404:tfscan service 
+1412:infoalign service 
+1458:pepstats service 
+1512:charge service 
+1709:pepstats service 
+1744:exception collection service 
+1749:reverse geocoding service 
+1797:pepinfo service 
+1803:pepinfo service 
+1822:phylogenetic service 
+1909:tfscan service 
+1946:start service 
+2042:fdollop service 
+2053:pepcoil service 
+2067:listor service 
+2165:infoalign service 
+2185:ws4lsql service 
+2239:jip comuni service 
+2253:listor service 
+2275:touch service 
+2327:palindrome service 
+2395:pe reverse ani service 
+2438:pepcoil service 

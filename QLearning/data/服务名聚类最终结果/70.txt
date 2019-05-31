@@ -1,0 +1,72 @@
+100:esv service 
+288:chaos service 
+304:ehc integration service 
+306:xembl service 
+311:league service 
+367:dreg service 
+473:site inspect service 
+506:ixmlws service 
+529:wahoo scores service 
+601:prettyplot service 
+623:vas service 
+661:thesaurus service 
+687:utility service 
+688:ldap service 
+740:syndication service experimental 
+753:piml service 
+768:sekeyword service 
+769:codcopy service 
+816:person service 
+824:value service 
+834:einverted service 
+836:wst coffee service 
+865:ehc integration service 
+968:bfo graph service 
+1003:psiphi service 
+1016:gusbrcrz service 
+1052:dreg service 
+1061:htt service 
+1096:ixmlws2 service 
+1111:connectique service 
+1181:league service 
+1184:crm service v1 
+1189:rrnascan service 
+1240:iep service 
+1249:ehmmindex service 
+1349:chaos service 
+1388:acdc service 
+1394:fuzzpro service 
+1487:site fetch service 
+1536:horoscope service 
+1583:cotizador service 
+1648:siggen service 
+1693:subscription service 
+1708:glimmerm service 
+1752:disponibilita outsourcer service 
+1785:np os medical paginal translation service 
+1818:hetparse service 
+1829:extractfeat service 
+1831:domainreso service 
+1918:equicktandem service 
+1933:monster business gateway service 
+1968:integration service 
+2006:fuzzpro service 
+2013:equicktandem service 
+2015:sigscan service 
+2029:prettyplot service 
+2038:rocon service 
+2043:fseqboot service 
+2060:psiphi service 
+2093:sesame service 
+2113:iep service 
+2132:update service 
+2139:etray service 
+2152:einverted service 
+2158:frequencies service 
+2180:update service 
+2196:newcpgreport service 
+2215:maskfeat service 
+2248:hotel functions service 
+2279:piml service 
+2334:enum fetch service 
+2437:newcpgreport service 

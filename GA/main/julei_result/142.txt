@@ -1,0 +1,23 @@
+57:path finder service 
+129:address finder 
+169:sample 
+196:route finder 
+222:sample 
+348:permit place 
+507:bank finder 
+974:uddi business finder 
+975:route finder 
+976:place catalog service 
+1149:uddi business finder 
+1499:video games finder 
+1542:postcode x0020 finder 
+1591:groups finder service 
+1704:left collocation finder service 
+1706:place finder sample 
+1760:place finder sample 
+1900:place finder sample 
+1955:address finder 
+2259:place finder 
+2305:sample 
+2341:sporting goods finder 
+2461:place finder 

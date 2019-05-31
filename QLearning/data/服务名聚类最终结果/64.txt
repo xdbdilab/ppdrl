@@ -1,0 +1,6 @@
+7:ehmmpfam service 
+36:entertainment listings service 
+69:cusp service
+900:languages service 
+1239:anagram service 
+1927:cathparse service 

@@ -1,0 +1,17 @@
+64:validate service 
+423:address meister.com service 
+534:nyc address service 
+616:x fcc basic 
+1043:validate email 
+1094:geo address 
+1112:validate sql99 service 
+1331:address book service 
+1344:dots address validate 
+1402:basic address match 
+1813:aims address web service 
+2126:address book service 
+2179:dots address validate 
+2205:address verifier 
+2269:dots email validate 
+2466:basic address match 
+2502:validate address service 
