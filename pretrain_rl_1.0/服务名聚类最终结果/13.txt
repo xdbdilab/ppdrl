@@ -1,5 +1,0 @@
-314:batch transfer 
-1056:batch 
-1384:svc am batch service 
-2344:file transfer service 
-2445:batch transfer

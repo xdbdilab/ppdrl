@@ -1,3 +1,0 @@
-428:bn price ws
-1278:bn price
-1696:tr ws em 

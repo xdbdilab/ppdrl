@@ -1,3 +1,0 @@
-453:course registration 
-1491:retrieve single registration manager 
-2209:registration 

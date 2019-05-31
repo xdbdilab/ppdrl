@@ -1,2 +1,0 @@
-792:sable therm rpc service 
-1208:sable archi rpc service 

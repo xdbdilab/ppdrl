@@ -1,4 +1,0 @@
-110:replica catalog service 
-476:catalog service 
-748:catalog 
-1212:replica catalog service 
